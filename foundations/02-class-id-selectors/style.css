@@ -1,0 +1,18 @@
+.odd {
+    background-color: #de6969;
+    font-family: "Verdana", "DejaVu Sans", serif;
+}
+
+#first-id {
+    color: #3029ad;
+    font-size: 36px;
+}
+
+.second-class {
+    font-size: 24px;
+}
+
+#second-id {
+    background-color: #29d487;
+    font-weight: bold;
+}
